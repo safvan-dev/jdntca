@@ -53,4 +53,19 @@ jdntca/
 │── send-mail.php
 │── career-mail.php
 │── README.md
+
 ```
+
+### 🧩 Pages Included
+
+- Home
+- About Us
+- Team
+- Consulting Services
+- Advisory Services
+- Taxation
+- Statutory Audits
+- Special Audits
+- Incorporation Services
+- Careers
+- Contact
